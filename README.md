@@ -23,7 +23,7 @@ are in the Deliverables directory
 
 ## Running the Code
 
-First cd into the directory of your code and then run "mkdir build."  Then cd into build and run "cmake .." which should populate the build folder.  (**IMPORTANT**) Make sure to reinput/correct the paths (that are used in the test cases and main method) of the airport.csv and routes.csv (found in datasets) before compiling.
+First cd into the directory of your code and then run "mkdir build."  Then cd into build and run "cmake .." which should populate the build folder.  (**IMPORTANT**) Make sure to reinput/correct the paths (that are used in the test cases and main method) of the airport.csv and routes.csv (found in datasets) before compiling.  (**UPDATE**) The paths should be fixed such that you can simply run the code.
 
 The code uses the OpenFlights data source of airports and corresponding routes, so it is only necessary to input to into the command line as follows:
 
